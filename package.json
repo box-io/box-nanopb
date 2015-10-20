@@ -1,0 +1,19 @@
+{
+  "name": "box-nanopb",
+  "version": "0.3.4",
+  "description": "Protocol buffers for embedded systems. ",
+  "main": "box.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/box-io/box-nanopb.git"
+  },
+  "author": "Vaughan Rouesnel <vrouesnel@gmail.com> (http://vaughan.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/box-io/box-nanopb/issues"
+  },
+  "homepage": "https://github.com/box-io/box-nanopb#readme"
+}
