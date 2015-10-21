@@ -1,7 +1,7 @@
 module.exports = {
   configurations: {
     all: {
-      includePaths: '.',
+      includePaths: ['.'],
     }
   }
 }
